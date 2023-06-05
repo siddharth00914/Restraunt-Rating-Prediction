@@ -1,0 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+.form {
+	margin: auto;
+	width: 50%;
+	border: 3px solid green;
+	padding: 10px;
+  }
